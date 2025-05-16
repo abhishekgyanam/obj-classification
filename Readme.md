@@ -46,7 +46,6 @@ pip install tensorflow opencv-python matplotlib numpy
   - Dense (10 units, Softmax)
 - **Loss:** Sparse Categorical Crossentropy
 - **Optimizer:** Adam
-- **Epochs:** 5
 
 ---
 
@@ -58,7 +57,7 @@ pip install tensorflow opencv-python matplotlib numpy
 Open train_model.ipynb in Jupyter Notebook and run all cells.
 ```
 
-This will generate `cnn_model.h5`.
+This gives `cnn_model.h5`.
 
 ### 📌 Run Real-Time Inference
 
@@ -94,12 +93,9 @@ python main.py
 ## 👨‍💻 Author
 
 **Abhishek**  
-B.Tech CSE — Real-Time ML Assignment 2025  
-GitHub: [your-github-username]  
-Email: [your-email@example.com]
+M.Tech AI and ML — Real-Time ML Assignment 2025  
+GitHub: [[abhishekkumar2222000@gmail.com](https://github.com/abhishekgyanam)]  
+Email: [m240010@nitsikkim.ac.in]
 
 ---
 
-## 📄 License
-
-This project is open-source and free to use for learning and personal use.
