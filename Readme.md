@@ -90,12 +90,3 @@ python main.py
 
 ---
 
-## 👨‍💻 Author
-
-**Abhishek**  
-M.Tech AI and ML — Real-Time ML Assignment 2025  
-GitHub: [(https://github.com/abhishekgyanam)]  
-Email: [m240010@nitsikkim.ac.in]
-
----
-
