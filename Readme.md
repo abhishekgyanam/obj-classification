@@ -1,4 +1,4 @@
-# 🧠 Real-Time Handwritten Digit Classification using CNN & Webcam
+#  Real-Time Handwritten Digit Classification using CNN & Webcam
 
 This project implements a Convolutional Neural Network (CNN) to classify handwritten digits using the MNIST dataset. It also enables **real-time digit recognition** using your webcam via OpenCV.
 
