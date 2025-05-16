@@ -94,7 +94,7 @@ python main.py
 
 **Abhishek**  
 M.Tech AI and ML — Real-Time ML Assignment 2025  
-GitHub: [[abhishekkumar2222000@gmail.com](https://github.com/abhishekgyanam)]  
+GitHub: [(https://github.com/abhishekgyanam)]  
 Email: [m240010@nitsikkim.ac.in]
 
 ---
